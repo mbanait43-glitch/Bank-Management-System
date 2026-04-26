@@ -1,0 +1,8 @@
+node_modules/
+bin/
+obj/
+.vs/
+*.db
+*.db-shm
+*.db-wal
+appsettings.Development.json
